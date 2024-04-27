@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-h1 {text-align: center;}
-</style>
-</head>
 <body>
 
-<h1>Hey, This application deployed on Tomcat using Jekins CI/CD Pipeline.</h1>
+<p>I am normal</p>
+<h2><center><p style="color:Orange;">Hey, This application deployed on Tomcat using Jekins CI/CD Pipeline.</p></center></h2>
+
 
 </body>
 </html>
