@@ -1,6 +1,13 @@
+<!DOCTYPE html>
 <html>
+<head>
+<style>
+h1 {text-align: center;}
+</style>
+</head>
 <body>
-	<h2><h1 style="background-color:DodgerBlue;">Welcome to Eclipse-git Integration With Jenkins...</h1></h2>
-	
+
+<h1>Hey, This application deployed on Tomcat using Jekins CI/CD Pipeline.</h1>
+
 </body>
 </html>
